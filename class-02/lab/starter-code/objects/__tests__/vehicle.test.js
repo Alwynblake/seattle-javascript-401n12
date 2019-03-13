@@ -1,5 +1,6 @@
 'use strict';
 
+// Vinicio - let's use the full name in these instances
 const Vehicle = require('../constructor.js');
 
 describe('Vehicles', () => {
